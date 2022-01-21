@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/rrd-rt/static/css/main.2ec2fea8.css",
-    "main.js": "/rrd-rt/static/js/main.e997de7e.js",
-    "static/media/Banner.jpg": "/rrd-rt/static/media/Banner.36a691efca45eb02ac13.jpg",
-    "static/media/FuturaPT-Book.ttf": "/rrd-rt/static/media/FuturaPT-Book.16ebcf48c36cedf12d82.ttf",
-    "index.html": "/rrd-rt/index.html",
-    "main.2ec2fea8.css.map": "/rrd-rt/static/css/main.2ec2fea8.css.map",
-    "main.e997de7e.js.map": "/rrd-rt/static/js/main.e997de7e.js.map"
+    "main.css": "./static/css/main.fd545c38.css",
+    "main.js": "./static/js/main.f83b78a5.js",
+    "static/media/Banner.jpg": "./static/media/Banner.36a691efca45eb02ac13.jpg",
+    "static/media/FuturaPT-Book.ttf": "./static/media/FuturaPT-Book.16ebcf48c36cedf12d82.ttf",
+    "index.html": "./index.html",
+    "main.fd545c38.css.map": "./static/css/main.fd545c38.css.map",
+    "main.f83b78a5.js.map": "./static/js/main.f83b78a5.js.map"
   },
   "entrypoints": [
-    "static/css/main.2ec2fea8.css",
-    "static/js/main.e997de7e.js"
+    "static/css/main.fd545c38.css",
+    "static/js/main.f83b78a5.js"
   ]
 }
