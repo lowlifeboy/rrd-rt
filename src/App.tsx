@@ -7,7 +7,7 @@ import Layout from "./layout/Layout";
 
 function App() {
   return (
-    <BrowserRouter basename="https://lowlifeboy.github.io/rrd-rt">
+    <BrowserRouter basename="/rrd-rt">
       <Routes>
         <Route element={<Layout />}>
           <Route
